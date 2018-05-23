@@ -28,10 +28,16 @@ Gefehlsoperator = '.'
 # Meldung Seltener Pokémon (Ditto, 100%IV,...)
 .rare [pkm|update|del] <tarnung> <wp> <maps> <time>
 
+### SERVERINFO
+# Informationen über den Server.
+# - Member: gesamtzahl der Member abzüglich der 'BOT'-Accounts.
+#           - in seperaten listen die anzahlen der Teams Instinct, Mystic & Valor
+#           - auch jene beziffern, die in keinem der 3 team sind (zur übersicht)
 .server [info]
 
+### spaetere inplementierung ###
+
 .nest
-### spaetere inplementierung
 
 .raid .r [update <id>|del] <pokemon> <schlüpft> <start> <arena>
 
