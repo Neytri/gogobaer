@@ -16,24 +16,37 @@ async def on_ready():
     print('----------------------------------')
     await client.change_presence(game=discord.Game(name='Pokémon Go'))
 
+def check_role_availability(role_name, roles):
+    """
+        Testet ob role_name als Rolle (role.name) in dem Array roles enthalten ist.
+
+        Returns: True, wenn Rolle vorhanden
+        Returns: False, wenn Rolle nicht vorhanden
+    """
+    for role in roles:
+        if role.name == role_name:
+            return True
+
+    return False
+
 @client.event
 async def on_message(message):
-    if message.content.lower().startswith('.instinct'):
+    if message.content.lower() == '.instinct':
         role_instinct = discord.utils.get(message.server.roles, name="Instinct")
         await client.add_roles(message.author, role_instinct)
         await client.send_message(message.channel, 'funzt?')
 
+    if message.content.lower() == '.mystic':
+        role_name = "Mystic"
+        if check_role_availability(role_name, message.author.roles):
+            print("Mystic ist bereits in der Rolle {} ({})".format(role_name, message.author.roles))
+            await client.send_message(message.channel, "Du bist bereits im Team Mystic")
+        else:
+            print("Fuege dich der Rolle {} hinzu.".format(role_name))
+            role = discord.utils.get(message.server.roles, name=role_name)
+            await client.add_roles(message.author, role)
 
-    if message.content.lower().startswith('.mystic'):
-        for role in message.author.roles:
-            if role.name == "Mystic":
-                await client.send_message(message.channel, "Du bist bereits im Team Mystic")
-#            if role.name == 'Instinct' or 'Valor':
-#                await client.send_message(message.channel, "Du kannst nicht in diese rolle, da du schon einer gegnerischen rolle Angehörst")
-
-
-
-    if message.content.lower().startswith('.res'):
+    if message.content.lower() == '.res':
         embed = discord.Embed(
             color=config.COL_RESEARCH,
             description="**Auftrag:** Drehe 6 PokéStops, die du noch nicht besucht hast.\n"
