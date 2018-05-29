@@ -1,10 +1,4 @@
-benötigte rechte:
-- nachrichten löschen
-
-erste vorstellungen
-Gefehlsoperator = `.`
-
-***TEAM***
+# TEAM
 wahl eines teams "Instinct"/"Mystic"/"Valor"
 - nur eines der drei teams soll zur wahl stehen. eine änderund ist später
   nur durch einen Moderato möglich, um zu verhindern das man die absprachen
@@ -18,7 +12,7 @@ wahl eines teams "Instinct"/"Mystic"/"Valor"
 .team [instinct|mystic|valor|harmony|rocket|help]
 ```
 
-***RESEARCH*** *(Feldforschung)*
+# RESEARCH *(Feldforschung)*
 Die löung über bots erlaubt korrekturen an Meldungen, ohne das der ersteller der
 feldforschung diese in seinem beitrag ändern, bzw gelöscht und neu geschrieben
 werden muss
@@ -28,13 +22,13 @@ werden muss
 .res .research .res .forschung .f [auftrag|update]
 ```
 
-***RARE***-spawn
+# RARE*-spawns*
 Meldung Seltener Pokémon (Ditto, 100%IV,...)
 ```
 .rare [pkm|update|del] <tarnung> <wp> <maps> <time>
 ```
 
-***SERVERINFO***
+# SERVERINFO
 Informationen über den Server.
 - Member: gesamtzahl der Member abzüglich der 'BOT'-Accounts.
           - in seperaten listen die anzahlen der Teams Instinct, Mystic & Valor
@@ -43,7 +37,7 @@ Informationen über den Server.
 .server [info]
 ```
 
-***spaetere inplementierung***
+spaetere inplementierung
 
 `.nest`
 
