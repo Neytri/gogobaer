@@ -51,6 +51,7 @@ Informationen über den Server.
 
 `.update ID Pokemon/Zeit1/Zeit2/Ort`
 
+# Implementierung
 
-*discord.py@rewrite*
-`pip install -U https://github.com/Rapptz/discord.py/archive/rewrite.zip`
+* eine mögliche erweiterung wäre es, einen fertigen feldforschungspost in weitere
+gruppen posten zu lassen (WhatsApp, Telegram)
