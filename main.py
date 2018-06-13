@@ -1,4 +1,4 @@
-#! /usr/bin/env python4
+#! /usr/bin/env python3
 """
 # install discord.py/rewrite
 $ git clone https://github.com/Rapptz/discord.py.git -b rewrite
@@ -16,7 +16,7 @@ import time
 import config
 
 description = None
-bot = commands.Bot(command_prefix='?')
+bot = commands.Bot(command_prefix='.')
 
 @bot.event
 async def on_ready():
@@ -36,26 +36,29 @@ Problemstellung: Teamwahl
             durch Admins)
           -
 '''
-#@bot.command()
-#async def team();
+@bot.command(pass_context=True)
+async def test(ctx):
+    embed = discord.Embed(title="Test", description="... wohl bestanden")
+    await bot.delete_message(ctx.message)
+    await bot.say(embed=embed)
 '''
 Feldforschung: Usern ermöglicen über den bot quests in dem dafür vorgesehenen
 channel zu posten/bearbeiten. tägleich 0:00 soll der channel bis auf die
 angepinnten nachrichten gelehrt werden.
 '''
-@bot.command()
-async def research():
+@bot.command(pass_context=True)
+async def research(ctx):
     print("research send embed.")
     embed = discord.Embed(
         #title = "Titel",
         colour = discord.Colour.dark_orange(),
-        description = "**Auftrag:** Fange 10 Pokémon.\n"
-                    "**Belohnung:** Pokémon _(Karpador)_\n"
-                    "**Pokéstop:** Augen\n"
-                    "**Ort:** Borkheider Str. 39 (Marzahn)\n"
-                    "**Maps:** https://goo.gl/maps/oohDawDXUF92"
+        description = "**Auftrag:** Brüte 5 Eier aus.\n"
+                    "**Belohnung:** Pokémon _(Chaneira)_\n"
+                    "**Pokéstop:** Kapelle-Ufer-Ecke Unterbaumstrasse\n"
+                    "**Ort:** Reinhardtstraße 58 (Mitte)\n"
+                    "**Maps:** https://goo.gl/maps/TymcjjRwEJ62"
     )
-    embed.set_thumbnail(url="https://files.pokefans.net/images/pokemon-go/modelle/129.png")
+    embed.set_thumbnail(url="https://files.pokefans.net/images/pokemon-go/modelle/113.png")
     embed.set_author(
         name="Feldforschung",
         url="https://pokefans.net/spiele/pokemon-go/liste-aller-feldforschungen",
@@ -64,6 +67,7 @@ async def research():
     #embed.set_image(url="http://files.pokefans.net/images/pokemon-go/findenicons/forschung.png")
     #embed.set_footer(text="das ist der Footer")
     #await bot.delete_message(message)
+    await bot.delete_message(ctx.message)
     await bot.say(embed=embed)
 
 @bot.command()
