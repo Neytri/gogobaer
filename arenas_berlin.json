@@ -269,6 +269,307 @@
     "name": "S-Bahnbetriebswerk Friedrichsfelde",
     "region": "Friedrichsfelde",
     "location": "Rosenfelder Straße 30",
+    "url": "https://goo.gl/maps/xApAsHMyoP52"
+},
+{
+    "id": "lbb0002",
+    "name": "Hermes Skulptur",
+    "region": "Friedrichsfelde",
+    "location": "Alt-Friedrichsfelde 105",
+    "url": "https://goo.gl/maps/etgys1yMLKy"
+},
+{
+    "id": "lbb0002",
+    "name": "Handelundwandel",
+    "region": "Friedrichsfelde",
+    "location": "Alt-Friedrichsfelde / Rhinstr.",
+    "url": "https://goo.gl/maps/fv8UDDUmTyz"
+},
+{
+    "id": "lbb0003",
+    "name": "Windmühlen",
+    "region": "Friedrichsfelde",
+    "location": "Rosenfelder Ring 3",
+    "url": "https://goo.gl/maps/E3MWLUb7XVC2"
+},
+{
+    "id": "lbb0004",
+    "name": "Friedrichsfelder Tomaten Mural",
+    "region": "Friedrichsfelde",
+    "location": "Rhinstraße 17, EDEKA",
+    "url": "https://goo.gl/maps/9VxMreV5wp92"
+},
+{
+    "id": "lbb0003",
+    "name": "Friedrichsfelde Ost S-Bahnhof",
+    "region": "Friedrichsfelde",
+    "location": "Seddiner Str. 22",
+    "url": "https://goo.gl/maps/eYSvSrVV5qp"
+},
+{
+    "id": "lbb0004",
+    "name": "Alter Friedrichsfelder Friedhof",
+    "region": "Friedrichsfelde",
+    "location": "Marzahner Chaussee 20",
+    "url": "https://goo.gl/maps/2viqDtPnWim"
+},
+{
+    "id": "lbb0005",
+    "name": "Gensinger Spielplatz",
+    "region": "Friedrichsfelde",
+    "location": "Gensinger Straße 46",
+    "url": "https://goo.gl/maps/AiqzjvEY3kJ2"
+},
+{
+    "id": "lbb0006",
+    "name": "Koggen Brunnen",
+    "region": "Friedrichsfelde",
+    "location": "Gensinger Straße 46",
+    "url": "https://goo.gl/maps/LFHhM5TMVDw"
+},
+{
+    "id": "lbb0007",
+    "name": "Ape Structure",
+    "region": "Friedrichsfelde",
+    "location": "Am Tierpark 125, (im) Tierpark Berlin",
+    "url": "https://goo.gl/maps/6NDDouDirCP2"
+},
+{
+    "id": "lbb0008",
+    "name": "Wandtafel Giraffen in Afrika",
+    "region": "Friedrichsfelde",
+    "location": "Am Tierpark 125, (im) Tierpark Berlin",
+    "url": "https://goo.gl/maps/s8uEwxA7gqv"
+},
+{
+    "id": "lbb0009",
+    "name": "2 Giraffen",
+    "region": "Friedrichsfelde",
+    "location": "Am Tierpark 125, (im) Tierpark Berlin",
+    "url": "https://goo.gl/maps/4YDahbTNntF2"
+},
+{
+    "id": "lbb0010",
+    "name": "Der Hirsch",
+    "region": "Friedrichsfelde",
+    "location": "Am Tierpark 125, (im) Tierpark Berlin",
+    "url": "https://goo.gl/maps/tQBDCuDcUZ12"
+},
+{
+    "id": "lbb0011",
+    "name": "linke Löwengruppe am Brehm Hau",
+    "region": "Friedrichsfelde",
+    "location": "Am Tierpark 125, (im) Tierpark Berlin",
+    "url": "https://goo.gl/maps/sJPqQnxQLNp"
+},
+{
+    "id": "lbb0012",
+    "name": "Pinguin Wastebox",
+    "region": "Friedrichsfelde",
+    "location": "Am Tierpark 125, (im) Tierpark Berlin",
+    "url": "https://goo.gl/maps/TQ9b1KpSa9v"
+},
+{
+    "id": "lbb0013",
+    "name": "Die fünf Büffel",
+    "region": "Friedrichsfelde",
+    "location": "Am Tierpark 41, (im) Tierpark Berlin",
+    "url": "https://goo.gl/maps/DN2c1dq9JLC2"
+},
+{
+    "id": "lbb0014",
+    "name": "Affenpaar",
+    "region": "Friedrichsfelde",
+    "location": "Am Tierpark 41, (im) Tierpark Berlin",
+    "url": "https://goo.gl/maps/F4hZedu41dy"
+},
+{
+    "id": "lbb0015",
+    "name": "Statue Ost III",
+    "region": "Friedrichsfelde",
+    "location": "Am Tierpark 41, (im) Tierpark Berlin",
+    "url": "https://goo.gl/maps/S7cjKEPpZM22"
+},
+{
+    "id": "lbb0016",
+    "name": "Fortuna I",
+    "region": "Friedrichsfelde",
+    "location": "Am Tierpark 41, (im) Tierpark Berlin",
+    "url": "https://goo.gl/maps/4S6jVa5KWg72"
+},
+{
+    "id": "lbb0017",
+    "name": "Gedenkstein Nikolaj E. Bersarin",
+    "region": "Friedrichsfelde",
+    "location": "Am Tierpark 34",
+    "url": "https://goo.gl/maps/SLF9C4ENssF2"
+},
+{
+    "id": "lbb0018",
+    "name": "Tierpark Berlin",
+    "region": "Friedrichsfelde",
+    "location": "Am Tierpark 41, Tierpark Berlin, Haupteingang",
+    "url": "https://goo.gl/maps/u1jXno2EEET2"
+},
+{
+    "id": "lbb0019",
+    "name": "Tierpark Berlin",
+    "region": "Friedrichsfelde",
+    "location": "Am Tierpark 125, Tierpark Berlin",
+    "url": "https://goo.gl/maps/KUzMRECnUjx"
+},
+{
+    "id": "lbb0020",
+    "name": "Tierpark Hotel",
+    "region": "Friedrichsfelde",
+    "location": "Franz-Mett-Straße 3-9",
+    "url": "https://goo.gl/maps/rGM7y3eYbSL2"
+},
+{
+    "id": "lbb0021",
+    "name": "Heinrich-Dathe-Platz",
+    "region": "Friedrichsfelde",
+    "location": "Am Tierpark 68",
+    "url": "https://goo.gl/maps/ML28CnAPfm72"
+},
+{
+    "id": "lbb0022",
+    "name": "Bisonbulle am Tierpark",
+    "region": "Friedrichsfelde",
+    "location": "Am Tierpark 125, Tierpark Berlin",
+    "url": "https://goo.gl/maps/WFebypj67v72"
+},
+{
+    "id": "lbb0023",
+    "name": "Animal Mural",
+    "region": "Friedrichsfelde",
+    "location": "Sewanstraße 235, Seniorenheim",
+    "url": "https://goo.gl/maps/LZu3475SceC2"
+},
+{
+    "id": "lbb0024",
+    "name": "Moderne Kunst",
+    "region": "Friedrichsfelde",
+    "location": "Sewanstraße 227",
+    "url": "https://goo.gl/maps/e8b9SfxNq8u"
+},
+{
+    "id": "lbb0025",
+    "name": "Vogel Mural",
+    "region": "Friedrichsfelde",
+    "location": "Balatonstraße 50",
+    "url": "https://goo.gl/maps/XfTQu4CibHk"
+},
+{
+    "id": "lbb0026",
+    "name": "Duell Im Sandkasten",
+    "region": "Friedrichsfelde",
+    "location": "Moldaustraße 33",
+    "url": "https://goo.gl/maps/qXeq7zLo27n"
+},
+{
+    "id": "lbb0027",
+    "name": "Lying Head",
+    "region": "Friedrichsfelde",
+    "location": "Moldaustraße 37",
+    "url": "https://goo.gl/maps/aeygGBcL1Lr"
+},
+{
+    "id": "lbb0028",
+    "name": "Kleine Salzwelt",
+    "region": "Friedrichsfelde",
+    "location": "Zachertstraße 75",
+    "url": "https://goo.gl/maps/UMWdGfF9zBD2"
+},
+{
+    "id": "lbb0029",
+    "name": "Skulptur \"Stein der Erkenntnis\"",
+    "region": "Friedrichsfelde",
+    "location": "Robert-Uhrig-Straße 17",
+    "url": "https://goo.gl/maps/fmmJDNCtWd72"
+},
+{
+    "id": "lbb0030",
+    "name": "Hidden Parcours",
+    "region": "Friedrichsfelde",
+    "location": "Lincolnstraße 27E",
+    "url": "https://goo.gl/maps/BxHPHmRuXu42"
+},
+{
+    "id": "lbb0031",
+    "name": "Simba",
+    "region": "Friedrichsfelde",
+    "location": "Rummelsburger Str. 27B",
+    "url": "https://goo.gl/maps/1phUMMpBBLU2"
+},
+{
+    "id": "lbb0032",
+    "name": "Kletterwand",
+    "region": "Friedrichsfelde",
+    "location": "Rummelsburger Str. 35E, Elefantenspielplatz",
+    "url": "https://goo.gl/maps/d7kxAMcwWD72"
+},
+{
+    "id": "lbb0033",
+    "name": "Mauli Maulwurf",
+    "region": "Friedrichsfelde",
+    "location": "Rummelsburger Straße 31C",
+    "url": "https://goo.gl/maps/qq9QFF73eyG2"
+},
+{
+    "id": "lbb0034",
+    "name": "War Grave Memorial Rummelsburg",
+    "region": "Friedrichsfelde",
+    "location": "Rummelsburger Straße 71",
+    "url": "https://goo.gl/maps/NvCXGKGiwft"
+},
+{
+    "id": "lbb0035",
+    "name": "Yin and Yang",
+    "region": "Friedrichsfelde",
+    "location": "Baikalstraße 17",
+    "url": "https://goo.gl/maps/hAdK5YBiwKz"
+},
+{
+    "id": "lbb0036",
+    "name": "Jugendfunkhaus Berlin",
+    "region": "Friedrichsfelde",
+    "location": "Sewanstraße 43",
+    "url": "https://goo.gl/maps/mRLyaGPQk8H2"
+},
+{
+    "id": "lbb0037",
+    "name": "Kletterkubus",
+    "region": "Friedrichsfelde",
+    "location": "Dolgenseestraße 40",
+    "url": "https://goo.gl/maps/9xve9emeQax"
+},
+{
+    "id": "lbb0038",
+    "name": "Musikschule Berlin Lichtenberg",
+    "region": "Friedrichsfelde",
+    "location": "Dolgenseestraße 60",
+    "url": "https://goo.gl/maps/BGjdgVgAbBx"
+},
+{
+    "id": "lbb0039",
+    "name": "Trainingscamp Dolgenseestraße",
+    "region": "Friedrichsfelde",
+    "location": "Dolgenseestraße 22",
+    "url": "https://goo.gl/maps/LTkMKcccmxC2"
+},
+{
+    "id": "lbc00",
+    "name": "",
+    "region": "Karlshorst",
+    "location": "",
+    "url": ""
+},
+{
+    "id": "lbb0001",
+    "name": "S-Bahnbetriebswerk Friedrichsfelde",
+    "region": "Friedrichsfelde",
+    "location": "Rosenfelder Straße 30",
     "url": "https://goo.gl/maps/nV4p39yJ9Z52"
 },
 {
