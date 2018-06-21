@@ -1,0 +1,434 @@
+{
+    "id": "lba0001",
+    "name": "Alte Fabrik",
+    "region": "Lichtenberg",
+    "location": "Buchberger Straße 30",
+    "url": "https://goo.gl/maps/c61J347fHxp"
+},
+{
+    "id": "lba0002",
+    "name": "Adaption Von Peter Hacks (Der Frieden)",
+    "region": "Lichtenberg",
+    "location": "Harnackstraße 10",
+    "url": "https://goo.gl/maps/SpRgFjZ8exw"
+},
+{
+    "id": "lba0003",
+    "name": "Brunnen Am Plattenbaupark",
+    "region": "Lichtenberg",
+    "location": "Frankfurter Allee 144",
+    "url": "https://goo.gl/maps/6oszuPNoJ5T2"
+},
+{
+    "id": "lba0004",
+    "name": "CASA MIA",
+    "region": "Lichtenberg",
+    "location": "Frankfurter Allee 163",
+    "url": "https://goo.gl/maps/8P59hQPuJgy"
+},
+{
+    "id": "lba0005",
+    "name": "Rathaus Lichtenberg",
+    "region": "Lichtenberg",
+    "location": "Möllendorffstraße 6",
+    "url": "https://goo.gl/maps/DEBWKA2VAkv"
+},
+{
+    "id": "lba0006",
+    "name": "Frau mit Kugel",
+    "region": "Lichtenberg",
+    "location": "Stadtpark Lichtenberg, Parkaue",
+    "url": "https://goo.gl/maps/3YF6Li3UeqS2"
+},
+{
+    "id": "lba0007",
+    "name": "Lichtenberg Statue",
+    "region": "Lichtenberg",
+    "location": "Kielblockstraße 2, Stadtpark Lichtenberg,",
+    "url": "https://goo.gl/maps/wNtoL1s7E1R2"
+},
+{
+    "id": "lba0008",
+    "name": "Kirche Loeperplatz",
+    "region": "Lichtenberg",
+    "location": "Möllendorffstraße 33",
+    "url": "https://goo.gl/maps/Az7KaFysNGJ2"
+},
+{
+    "id": "lba0009",
+    "name": "Das Treppen-Haus",
+    "region": "Lichtenberg",
+    "location": "Josef-Orlopp-Straße 30",
+    "url": "https://goo.gl/maps/dERjuV64wPJ2"
+},
+{
+    "id": "lba0010",
+    "name": "The Clock Landsberger Allee Vulkanstr",
+    "region": "Lichtenberg",
+    "location": "Landsberger Allee 194",
+    "url": "https://goo.gl/maps/KC7tp4HWB7K2"
+},
+{
+    "id": "lba0011",
+    "name": "BVB- Stadion Lichtenberg",
+    "region": "Lichtenberg",
+    "location": "Siegfriedstraße 71",
+    "url": "https://goo.gl/maps/KkBPXKjp9m92"
+},
+{
+    "id": "lba0012",
+    "name": "Brunnen Aus Feldsteinen",
+    "region": "Lichtenberg",
+    "location": "Herzbergstr. 99",
+    "url": "https://goo.gl/maps/vswBs3p2R1t"
+},
+{
+    "id": "lba0013",
+    "name": "Love Boy Graffiti Art",
+    "region": "Lichtenberg",
+    "location": "Herzbergstr. 49",
+    "url": "https://goo.gl/maps/D6Rh3c6SVk82"
+},
+{
+    "id": "lba0014",
+    "name": "Opfer Altar- Chinatown",
+    "region": "Lichtenberg",
+    "location": "Herzbergstr. 123",
+    "url": "https://goo.gl/maps/hToxuhvdDq72"
+},
+{
+    "id": "lba0015",
+    "name": "Sitzende Großkopffigur",
+    "region": "Lichtenberg",
+    "location": "Bornitzstraße 102",
+    "url": "https://goo.gl/maps/b5SPaAJm1Yt"
+},
+{
+    "id": "lba0016",
+    "name": "LWB - Lichtenberger Werkstatt für Behinderte",
+    "region": "Lichtenberg",
+    "location": "Bornitzstraße 68",
+    "url": "https://goo.gl/maps/m9DWKaWQUny"
+},
+{
+    "id": "lba0017",
+    "name": "Voetbal 47",
+    "region": "Lichtenberg",
+    "location": "Ruschestraße 22",
+    "url": "https://goo.gl/maps/XyH5Uq361zx"
+},
+{
+    "id": "lba0018",
+    "name": "Stasi Museum Eingang West",
+    "region": "Lichtenberg",
+    "location": "Ruschestraße 8",
+    "url": "https://goo.gl/maps/twrmvHXn3hP2"
+},
+{
+    "id": "lba0019",
+    "name": "Stasi Museum",
+    "region": "Lichtenberg",
+    "location": "Magdalenenstraße 19",
+    "url": "https://goo.gl/maps/zD1yXAgkg7T2"
+},
+{
+    "id": "lba0020",
+    "name": "Kirche Rodeliusplatz",
+    "region": "Lichtenberg",
+    "location": "Roedeliusplatz 1B",
+    "url": "https://goo.gl/maps/fMf3RshfWbP2"
+},
+{
+    "id": "lba0021",
+    "name": "Kleiner Spielplatz Schottstraße",
+    "region": "Lichtenberg",
+    "location": "Schottstraße 38",
+    "url": "https://goo.gl/maps/wj8BL6ksZGS2"
+},
+{
+    "id": "lba0022",
+    "name": "Wandbild Lichtenberg",
+    "region": "Lichtenberg",
+    "location": "Atzpodienstraße 19",
+    "url": "https://goo.gl/maps/ehQfVjRdADP2"
+},
+{
+    "id": "lba0023",
+    "name": "Mutter und Kind - Freiaplatz",
+    "region": "Lichtenberg",
+    "location": "Freiastraße 1, Freiaplatz",
+    "url": "https://goo.gl/maps/xxkzFPeguPH2"
+},
+{
+    "id": "lba0024",
+    "name": "The Elephant",
+    "region": "Lichtenberg",
+    "location": "Siegfriedstr. 27b",
+    "url": "https://goo.gl/maps/DqX9WbMxLUm"
+},
+{
+    "id": "lba0025",
+    "name": "Gedenkstätte der Sozialisten",
+    "region": "Lichtenberg",
+    "location": "Gudrunstraße 20, Zentralfriedhof Friedrichsfelde",
+    "url": "https://goo.gl/maps/88AeNYbyf182"
+},
+{
+    "id": "lba0026",
+    "name": "Kolumbarium Fam. Vohsen",
+    "region": "Lichtenberg",
+    "location": "Gudrunstraße 20, Zentralfriedhof Friedrichsfelde",
+    "url": "https://goo.gl/maps/rbhGBWHqnvw"
+},
+{
+    "id": "lba0027",
+    "name": "Perspektivenwechsel",
+    "region": "Lichtenberg",
+    "location": "Herzbergstr. 74, Landschaftspark Herzberge",
+    "url": "https://goo.gl/maps/rkf3j56sSYz"
+},
+{
+    "id": "lba0028",
+    "name": "Pflug 4",
+    "region": "Lichtenberg",
+    "location": "Herzbergstr. 74, Landschaftspark Herzberge",
+    "url": "https://goo.gl/maps/FVBksXxo2Lp"
+},
+{
+    "id": "lba0029",
+    "name": "Stupid Robot",
+    "region": "Lichtenberg",
+    "location": "Allee der Kosmonauten 16, Landschaftspark Herzberge",
+    "url": "https://goo.gl/maps/pugGVKiHxTn"
+},
+{
+    "id": "lba0030",
+    "name": "Crazy Friends",
+    "region": "Lichtenberg",
+    "location": "Allee der Kosmonauten 16, Landschaftspark Herzberge",
+    "url": "https://goo.gl/maps/JLoZhMv9CWU2"
+},
+{
+    "id": "lba0031",
+    "name": "Little Paradise Garden",
+    "region": "Lichtenberg",
+    "location": "Allee der Kosmonauten 16, Landschaftspark Herzberge",
+    "url": "https://goo.gl/maps/5ivc1A2SME12"
+},
+{
+    "id": "lba0032",
+    "name": "Ruhestätte der Schwestern des KEH",
+    "region": "Lichtenberg",
+    "location": "Herzbergstr. 79, KEH",
+    "url": "https://goo.gl/maps/oHfUWqf8Yhr"
+},
+{
+    "id": "lba0033",
+    "name": "Königin-Elisabeth-Krankenhaus",
+    "region": "Lichtenberg",
+    "location": "Herzbergstr. 79, KEH",
+    "url": "https://goo.gl/maps/a646iiYat7N2"
+},
+{
+    "id": "lba0034",
+    "name": "Zwei Vollpfosten",
+    "region": "Lichtenberg",
+    "location": "Herzbergstr. 79, KEH",
+    "url": "https://goo.gl/maps/6yZ4QH3AbUT2"
+},
+{
+    "id": "lba0035",
+    "name": "Binnen Düne",
+    "region": "Lichtenberg",
+    "location": "Herzbergstr. 79, KEH",
+    "url": "https://goo.gl/maps/m7J38AT5C2B2"
+},
+{
+    "id": "lba0036",
+    "name": "FRS94",
+    "region": "Lichtenberg",
+    "location": "Allee der Kosmonauten 25",
+    "url": "https://goo.gl/maps/Fz5LLMmrrFH2"
+},
+{
+    "id": "lba0037",
+    "name": "Landschaftspark Herzberge",
+    "region": "Lichtenberg",
+    "location": "Rhinstr. 137",
+    "url": "https://goo.gl/maps/bcFuQVHHTYU2"
+},
+{
+    "id": "lba0038",
+    "name": "Ikea Eingang",
+    "region": "Lichtenberg",
+    "location": "Landsberger Allee 364",
+    "url": "https://goo.gl/maps/LG79zr5TP3x"
+},
+{
+    "id": "lbb0001",
+    "name": "S-Bahnbetriebswerk Friedrichsfelde",
+    "region": "Friedrichsfelde",
+    "location": "Rosenfelder Straße 30",
+    "url": "https://goo.gl/maps/nV4p39yJ9Z52"
+},
+{
+    "id": "lbj0001",
+    "name": "Interchange Station Lichtenberg",
+    "region": "Rummelsburg",
+    "location": "Weitlingstraße 22, Bhf. Lichtenberg",
+    "url": "https://goo.gl/maps/a7XeVByDj3z"
+},
+{
+    "id": "lbj0002",
+    "name": "S-Bhf. Lichtenberg Berlin",
+    "region": "Rummelsburg",
+    "location": "Weitlingstraße 13, Bhf. Lichtenberg",
+    "url": "https://goo.gl/maps/ST3tHcpcTj62"
+},
+{
+    "id": "lbj0003",
+    "name": "Mural Berliner Luft",
+    "region": "Rummelsburg",
+    "location": "Frankfurter Allee 272",
+    "url": "https://goo.gl/maps/SE4mVypfzUm"
+},
+{
+    "id": "lbj0004",
+    "name": "Blasenwanderung",
+    "region": "Rummelsburg",
+    "location": "Rosenfelder Straße 13, Zamenhofpark",
+    "url": "https://goo.gl/maps/KPRuQiqeJnv"
+},
+{
+    "id": "lbj0005",
+    "name": "Grauer Esel",
+    "region": "Rummelsburg",
+    "location": "Rosenfelder Street 3A",
+    "url": "https://goo.gl/maps/wPCyyHnhogG2"
+},
+{
+    "id": "lbj0006",
+    "name": "Freikirchliche Gemeinde",
+    "region": "Rummelsburg",
+    "location": "Heinrichstraße 31",
+    "url": "https://goo.gl/maps/tuEnCp3z6j62"
+},
+{
+    "id": "lbj0007",
+    "name": "Münsterlandplatz",
+    "region": "Rummelsburg",
+    "location": "Münsterlandplatz 5",
+    "url": "https://goo.gl/maps/t9t88sc4D1K2"
+},
+{
+    "id": "lbj0008",
+    "name": "Genni",
+    "region": "Rummelsburg",
+    "location": "Weitlingstraße 89",
+    "url": "https://goo.gl/maps/mFUC7RV28y32"
+},
+{
+    "id": "lbj0009",
+    "name": "Blue Wizard Mural",
+    "region": "Rummelsburg",
+    "location": "Lückstr. 32",
+    "url": "https://goo.gl/maps/e9xeMiYNSsj"
+},
+{
+    "id": "lbj0010",
+    "name": "Mütter Haben Es Nicht Leicht",
+    "region": "Rummelsburg",
+    "location": "Fischerstraße, Max-Taut-Schule",
+    "url": "https://goo.gl/maps/3SqkE3uai3P2"
+},
+{
+    "id": "lbj0011",
+    "name": "Nöldnerbistro",
+    "region": "Rummelsburg",
+    "location": "Leopoldstraße 38A",
+    "url": "https://goo.gl/maps/5GkWhFuKnN42"
+},
+{
+    "id": "lbj0012",
+    "name": "Bahnhof Nöldnerplatz",
+    "region": "Rummelsburg",
+    "location": "Archibaldweg 18",
+    "url": "https://goo.gl/maps/at5niFHyNQ12"
+},
+{
+    "id": "lbj0013",
+    "name": "Giant Tongue",
+    "region": "Rummelsburg",
+    "location": "Kaskelstraße 50",
+    "url": "https://goo.gl/maps/6KKTrFkanRk"
+},
+{
+    "id": "lbj0014",
+    "name": "Green Bridge",
+    "region": "Rummelsburg",
+    "location": "Hauffstraße 5, Victoriastadt",
+    "url": "https://goo.gl/maps/NyRqmnNKHD62"
+},
+{
+    "id": "lbj0015",
+    "name": "Denkmal für die Sowjetische Armee",
+    "region": "Rummelsburg",
+    "location": "Nöldnerstraße 43",
+    "url": "https://goo.gl/maps/DABbnys6sCz"
+},
+{
+    "id": "lbj0016",
+    "name": "Kugelsammlung",
+    "region": "Rummelsburg",
+    "location": "Nöldnerstraße 46",
+    "url": "https://goo.gl/maps/QvXvthDCcWR2"
+},
+{
+    "id": "lbj0017",
+    "name": "Piratennest",
+    "region": "Rummelsburg",
+    "location": "Hauptstraße 73-74",
+    "url": "https://goo.gl/maps/PJmkK7RY4Ut"
+},
+{
+    "id": "lbj0018",
+    "name": "Knabenhäuser",
+    "region": "Rummelsburg",
+    "location": "An den Knabenhäusern 12",
+    "url": "https://goo.gl/maps/v6Zi3jt1G482"
+},
+{
+    "id": "lbj0019",
+    "name": "Barrenturner",
+    "region": "Rummelsburg",
+    "location": "Gisele-Freund-Hain 22",
+    "url": "https://goo.gl/maps/eXD4Kajqpnr"
+},
+{
+    "id": "lbj0020",
+    "name": "Citymarina",
+    "region": "Rummelsburg",
+    "location": "Köpenicker Chaussee 1",
+    "url": "https://goo.gl/maps/oBiEqRdmPSQ2"
+},
+{
+    "id": "lbj0021",
+    "name": "Sisyphos Portal",
+    "region": "Rummelsburg",
+    "location": "Hauptstraße 16, 10317 Berlin,",
+    "url": "https://goo.gl/maps/w5kRoJZh4ZS2"
+},
+{
+    "id": "lbj0022",
+    "name": "S-Bhf Betriebsbahnhof Rummelsburg",
+    "region": "Rummelsburg",
+    "location": "Zobtener Straße 77",
+    "url": "https://goo.gl/maps/rHUXbYngTRx"
+},
+{
+    "id": "lbj0023",
+    "name": "Waschfrau",
+    "region": "Rummelsburg",
+    "location": "Wallensteinstraße, ehem. Waschhaus",
+    "url": "Waschfrau"
+},
