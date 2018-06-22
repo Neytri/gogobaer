@@ -776,9 +776,72 @@
     "url": "https://goo.gl/maps/WEgtXGofQ322"
 },
 {
-    "id": "lbd00",
-    "name": "",
+    "id": "lbd0001",
+    "name": "Falkenberger Rieselfelder 2",
     "region": "Falkenberg",
+    "location": "Fichtestraße 44B",
+    "url": "https://goo.gl/maps/oh3agH68wxt"
+},
+{
+    "id": "lbd0002",
+    "name": "Falkenberger Rieselfelder 6",
+    "region": "Falkenberg",
+    "location": "Fichtestraße 44B",
+    "url": "https://goo.gl/maps/qEfue9QRPt52"
+},
+{
+    "id": "lbd0003",
+    "name": "Sitzgruppe am Gehrensee",
+    "region": "Falkenberg",
+    "location": "Kundtanger 37, 13057 Berlin",
+    "url": "https://goo.gl/maps/tQtM317f7W42"
+},
+{
+    "id": "lbd0004",
+    "name": "Kirche St.Konrad von Parzheim",
+    "region": "Falkenberg",
+    "location": "Ahrensfelder Chaussee 82",
+    "url": "https://goo.gl/maps/Yn6RHqsWJ3u"
+},
+{
+    "id": "lbd0005",
+    "name": "The Minion",
+    "region": "Falkenberg",
+    "location": "Hausvaterweg 29A, 13057 Berlin",
+    "url": "https://goo.gl/maps/EtmkdjJ1gvM2"
+},
+{
+    "id": "lbd0006",
+    "name": "Nietzsche Zitat",
+    "region": "Falkenberg",
+    "location": "Stegeweg, 13057 Berlin",
+    "url": "https://goo.gl/maps/1k8KeVjvxq82"
+},
+{
+    "id": "lbd0007",
+    "name": "Skyline Kasten",
+    "region": "Falkenberg",
+    "location": "Dorf Street 26, 13057 Berlin",
+    "url": "https://goo.gl/maps/DAK5wD9cFGM2"
+},
+{
+    "id": "lbd0008",
+    "name": "Gutspark Falkenberg",
+    "region": "Falkenberg",
+    "location": "Dorfstraße 36, 13057 Berlin",
+    "url": "https://goo.gl/maps/3pUCDpTfMXr"
+},
+{
+    "id": "lbd0009",
+    "name": "Wiesensteg",
+    "region": "Falkenberg",
+    "location": "Dorf Street 4B, 13057 Berlin",
+    "url": "https://goo.gl/maps/TAntmNsgjfC2"
+},
+{
+    "id": "lbe00",
+    "name": "",
+    "region": "Malchow",
     "location": "",
     "url": ""
 },
