@@ -559,18 +559,228 @@
     "url": "https://goo.gl/maps/LTkMKcccmxC2"
 },
 {
-    "id": "lbc00",
-    "name": "",
+    "id": "lbc0001",
+    "name": "HTW Berlin - Springbrunnen",
     "region": "Karlshorst",
-    "location": "",
-    "url": ""
+    "location": "Römerweg 45",
+    "url": "https://goo.gl/maps/qEfYruxHvuS2"
 },
 {
-    "id": "lbb0001",
-    "name": "S-Bahnbetriebswerk Friedrichsfelde",
-    "region": "Friedrichsfelde",
-    "location": "Rosenfelder Straße 30",
-    "url": "https://goo.gl/maps/nV4p39yJ9Z52"
+    "id": "lbc0002",
+    "name": "Götterfunke ist die Freude",
+    "region": "Karlshorst",
+    "location": "Treskowallee 8",
+    "url": "https://goo.gl/maps/hXzYk3aZkPr"
+},
+{
+    "id": "lbc0003",
+    "name": "Berliner Wahrzeichen",
+    "region": "Karlshorst",
+    "location": "Aristotelessteig 2",
+    "url": "https://goo.gl/maps/F7UZc9pMXrP2"
+},
+{
+    "id": "lbc0004",
+    "name": "Schreibtisch Student",
+    "region": "Karlshorst",
+    "location": "Aristotelessteig 4",
+    "url": "https://goo.gl/maps/UvriQG2xUTU2"
+},
+{
+    "id": "lbc0005",
+    "name": "Rainbow Club",
+    "region": "Karlshorst",
+    "location": "Hönower Straße 30",
+    "url": "https://goo.gl/maps/JQfWEgrd7sq"
+},
+{
+    "id": "lbc0006",
+    "name": "Blumenornament",
+    "region": "Karlshorst",
+    "location": "Gundelfinger Straße 25",
+    "url": "https://goo.gl/maps/eMZwKbP1KJN2"
+},
+{
+    "id": "lbc0007",
+    "name": "Monster",
+    "region": "Karlshorst",
+    "location": "Treskowallee 62",
+    "url": "https://goo.gl/maps/hKudtzpf4dP2"
+},
+{
+    "id": "lbc0008",
+    "name": "Asienlöwen",
+    "region": "Karlshorst",
+    "location": "Treskowallee 89",
+    "url": "https://goo.gl/maps/JoG8m4iMSFT2"
+},
+{
+    "id": "lbc0009",
+    "name": "Mural at Treskower",
+    "region": "Karlshorst",
+    "location": "Dönhoffstraße 1",
+    "url": "https://goo.gl/maps/518xiWLasW42"
+},
+{
+    "id": "lbc0010",
+    "name": "Mathilda of Karlshorst",
+    "region": "Karlshorst",
+    "location": "Ehrenfelsstraße 10",
+    "url": "https://goo.gl/maps/6WTCHY2KuXU2"
+},
+{
+    "id": "lbc0011",
+    "name": "Running Maiden",
+    "region": "Karlshorst",
+    "location": "Rheingoldstraße, Rheinsteinpark",
+    "url": "https://goo.gl/maps/Kju56DLSAqs"
+},
+{
+    "id": "lbc0012",
+    "name": "T34 Worldwar 2 Museum",
+    "region": "Karlshorst",
+    "location": "Zwieseler Straße 4",
+    "url": "https://goo.gl/maps/vpKGHfp6cJy"
+},
+{
+    "id": "lbc0013",
+    "name": "St. Antonius",
+    "region": "Karlshorst",
+    "location": "Köpenicker Allee 39, Katholische Hochschule Sozialwesen Berlin",
+    "url": "St. Antonius"
+},
+{
+    "id": "lbc0014",
+    "name": "Meise",
+    "region": "Karlshorst",
+    "location": "Rheinpfalzallee 84",
+    "url": "https://goo.gl/maps/15P17Y3bVyB2"
+},
+{
+    "id": "lbc0015",
+    "name": "Skulptur",
+    "region": "Karlshorst",
+    "location": "Römerweg 120",
+    "url": "https://goo.gl/maps/d7DMf2QkDb52"
+},
+{
+    "id": "lbc0016",
+    "name": "Bunker Karlshorst",
+    "region": "Karlshorst",
+    "location": "Zwieseler Straße 50-96",
+    "url": "https://goo.gl/maps/wbCFS3gdUS92"
+},
+{
+    "id": "lbc0017",
+    "name": "Kletterspinne....Rutsche",
+    "region": "Karlshorst",
+    "location": "Zwieseler Straße 93",
+    "url": "https://goo.gl/maps/JvKq5NaivUR2"
+},
+{
+    "id": "lbc0018",
+    "name": "Blue Wooden Beams",
+    "region": "Karlshorst",
+    "location": "Kötztinger Straße 55",
+    "url": "https://goo.gl/maps/MwNmpiCyyS92"
+},
+{
+    "id": "lbc0019",
+    "name": "Leuchtturm am Tierpark",
+    "region": "Karlshorst",
+    "location": "Roßmäßlerstraße 24",
+    "url": "https://goo.gl/maps/UxGsVCCU21N2"
+},
+{
+    "id": "lbc0020",
+    "name": "Spielplatz",
+    "region": "Karlshorst",
+    "location": "Georg-Stern-Straße 12, Carlsgarten",
+    "url": "https://goo.gl/maps/MF3MJdManDP2"
+},
+{
+    "id": "lbc0021",
+    "name": "Obelisk of Karlshorst",
+    "region": "Karlshorst",
+    "location": "Treskowallee 129",
+    "url": "https://goo.gl/maps/t5mVe1ZUEVr"
+},
+{
+    "id": "lbc0022",
+    "name": "Pferdeskulptur am Karlsgarten",
+    "region": "Karlshorst",
+    "location": "Am Carlsgarten 16",
+    "url": "https://goo.gl/maps/8SpxjW3Nc3s"
+},
+{
+    "id": "lbc0023",
+    "name": "Kiefern-Eichen-Wäldchen",
+    "region": "Karlshorst",
+    "location": "Treskowallee 119",
+    "url": "https://goo.gl/maps/Bic2a8PJkny"
+},
+{
+    "id": "lbc0024",
+    "name": "Trabrennbahn Karlshorst",
+    "region": "Karlshorst",
+    "location": "Treskowallee 121",
+    "url": "https://goo.gl/maps/E5ECjeJCAm52"
+},
+{
+    "id": "lbc0025",
+    "name": "Blick in Die Natur",
+    "region": "Karlshorst",
+    "location": "Hoher Wallgraben 47",
+    "url": "https://goo.gl/maps/k6SZwRHkWHP2"
+},
+{
+    "id": "lbc0026",
+    "name": "Baumeister-Denkmal Karlshorst",
+    "region": "Karlshorst",
+    "location": "Ehrlichstraße 12A",
+    "url": "https://goo.gl/maps/bT3yF28Urmm"
+},
+{
+    "id": "lbc0027",
+    "name": "Denkmal Karlshorst",
+    "region": "Karlshorst",
+    "location": "Wandlitzstraße 18",
+    "url": "https://goo.gl/maps/idjptJsqNTs"
+},
+{
+    "id": "lbc0028",
+    "name": "Sunny Entrance",
+    "region": "Karlshorst",
+    "location": "Üderseestraße 21",
+    "url": "https://goo.gl/maps/4nYkw946nqt"
+},
+{
+    "id": "lbc0029",
+    "name": "Wohnort Erich Ollenhauer Bis 1933",
+    "region": "Karlshorst",
+    "location": "Trautenauer Straße 6",
+    "url": "https://goo.gl/maps/8Kz9dxqDVCT2"
+},
+{
+    "id": "lbc0030",
+    "name": "Springendes Pferd",
+    "region": "Karlshorst",
+    "location": "Trautenauer Straße 20",
+    "url": "https://goo.gl/maps/YTqyKG84iex"
+},
+{
+    "id": "lbc0031",
+    "name": "Freeroads - Free Grand Canyon",
+    "region": "Karlshorst",
+    "location": "Blockdammweg 32",
+    "url": "https://goo.gl/maps/WEgtXGofQ322"
+},
+{
+    "id": "lbd00",
+    "name": "",
+    "region": "Falkenberg",
+    "location": "",
+    "url": ""
 },
 {
     "id": "lbj0001",
